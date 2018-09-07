@@ -1,2 +1,2 @@
-# Responsice-Contact-form
+# Responsive-Contact-form
 follow along tutorial
